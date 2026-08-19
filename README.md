@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Didn't remove these comments from template because i  d  k
 **bc250400485ana-ctrl/bc250400485ana-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
