@@ -1,9 +1,7 @@
 ## Hi there 👋
-Didn't remove these comments from template because i  d  k
-**bc250400485ana-ctrl/bc250400485ana-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/12402c60-7322-4231-9be5-ba26eea0f3e3/thumbnail" >
+</p>
 - 🔭 I’m currently working on ...Backend Developer path from boot.dev
 - ⚡ Fun fact: ...[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/76ee9115-0fd5-444d-b18d-19ac523356e0.jpeg?v=1787168035)](https://www.boot.dev/certificates/76ee9115-0fd5-444d-b18d-19ac523356e0)
 - AND :
